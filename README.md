@@ -144,6 +144,8 @@ if (c) {
   //...
 }
 ```
+if(...){}以下5种在if语句中判断为false
+0，NaN，'',null,undefined,false
 * 逻辑运算
 ```JavaScript
 console.log(10 && 0); //0
